@@ -1,3 +1,7 @@
+# Developed for the Natural Computing module, University of Greenwich.
+# Based on starter code by Dr Mohammad Majid al-Rifaie.
+# Algorithm: Dispersive Flies Optimisation, M. M. al-Rifaie (FedCSIS, 2014).
+
 
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
